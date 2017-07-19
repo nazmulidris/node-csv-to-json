@@ -1,0 +1,23 @@
+{
+  "name": "csv-to-json",
+  "version": "1.0.0",
+  "description": "This project loads a CSV file from local filesystem and generates a JSON object that's written to a JS file, which can be used for sample data. Edit",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r3bl-alliance/node-csv-to-json.git"
+  },
+  "author": "Nazmul Idris",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/r3bl-alliance/node-csv-to-json/issues"
+  },
+  "homepage": "https://github.com/r3bl-alliance/node-csv-to-json#readme",
+  "dependencies": {
+    "inquirer": "^3.2.0",
+    "ya-csv": "^0.10.1"
+  }
+}
