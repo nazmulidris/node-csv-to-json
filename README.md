@@ -1,3 +1,17 @@
+Table of Contents
+=================
+
+   * [node-csv-to-json](#node-csv-to-json)
+   * [Instructions to run this](#instructions-to-run-this)
+   * [What is in this project](#what-is-in-this-project)
+      * [ya-csv](#ya-csv)
+      * [inquirer](#inquirer)
+      * [Flow type](#flow-type)
+      * [Open source](#open-source)
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
+
+
 # node-csv-to-json
 
 This project loads a CSV file from the local filesystem and generates a JSON object that's written to a JSON file, which can be used for sample data in other projects.
