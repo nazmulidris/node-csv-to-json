@@ -1,0 +1,745 @@
+[
+  {
+    "Type": "Sale",
+    "Trans Date": "06/30/2017",
+    "Post Date": "07/02/2017",
+    "Description": "WHOLEFDS STC 10267",
+    "Amount": "-25.25",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/30/2017",
+    "Post Date": "07/02/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-16.56",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/29/2017",
+    "Post Date": "06/30/2017",
+    "Description": "AMAZON MKTPLACE PMTS",
+    "Amount": "-12.99",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/29/2017",
+    "Post Date": "06/30/2017",
+    "Description": "Amazon.com",
+    "Amount": "-44.6",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/29/2017",
+    "Post Date": "07/02/2017",
+    "Description": "WHOLEFDS STC 10267",
+    "Amount": "-7.5",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/29/2017",
+    "Post Date": "06/30/2017",
+    "Description": "JET.COM",
+    "Amount": "-40.42",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/29/2017",
+    "Post Date": "07/02/2017",
+    "Description": "WHOLEFDS STC 10267",
+    "Amount": "-22.97",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/28/2017",
+    "Post Date": "06/28/2017",
+    "Description": "AMAZON MKTPLACE PMTS",
+    "Amount": "-8.36",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/28/2017",
+    "Post Date": "06/29/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-17.05",
+    "": ""
+  },
+  {
+    "Type": "Return",
+    "Trans Date": "06/28/2017",
+    "Post Date": "06/29/2017",
+    "Description": "LUCKYBRAND.COM",
+    "Amount": "30.91",
+    "": ""
+  },
+  {
+    "Type": "Return",
+    "Trans Date": "06/28/2017",
+    "Post Date": "06/29/2017",
+    "Description": "LUCKYBRAND.COM",
+    "Amount": "89.45",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/28/2017",
+    "Post Date": "06/28/2017",
+    "Description": "UBER   *US JUN27 MQ23M",
+    "Amount": "-34.84",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/28/2017",
+    "Post Date": "06/30/2017",
+    "Description": "INSTACART",
+    "Amount": "-35.51",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/27/2017",
+    "Post Date": "06/28/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-9.8",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/26/2017",
+    "Post Date": "06/27/2017",
+    "Description": "TARGET        00003228",
+    "Amount": "-37.02",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/26/2017",
+    "Post Date": "06/26/2017",
+    "Description": "GOOGLE *SERVICES",
+    "Amount": "-20",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/26/2017",
+    "Post Date": "06/27/2017",
+    "Description": "UBER TECHNOLOGIES INC",
+    "Amount": "-5.09",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/26/2017",
+    "Post Date": "06/27/2017",
+    "Description": "UBER TECHNOLOGIES INC",
+    "Amount": "-4.88",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/26/2017",
+    "Post Date": "06/27/2017",
+    "Description": "GOOGLE *Google Storage",
+    "Amount": "-1.99",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/25/2017",
+    "Post Date": "06/27/2017",
+    "Description": "WHOLEFDS STC 10267",
+    "Amount": "-5.04",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/25/2017",
+    "Post Date": "06/27/2017",
+    "Description": "WHOLEFDS STC 10267",
+    "Amount": "-11.49",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/25/2017",
+    "Post Date": "06/27/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-23.68",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/23/2017",
+    "Post Date": "06/25/2017",
+    "Description": "CHEVRON 0096377",
+    "Amount": "-50.71",
+    "": ""
+  },
+  {
+    "Type": "Return",
+    "Trans Date": "06/23/2017",
+    "Post Date": "06/25/2017",
+    "Description": "AMAZON MKTPLACE PMTS",
+    "Amount": "26.13",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/23/2017",
+    "Post Date": "06/25/2017",
+    "Description": "VESTA  *AT&amp;T",
+    "Amount": "-43.26",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/23/2017",
+    "Post Date": "06/25/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-20.97",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/23/2017",
+    "Post Date": "06/25/2017",
+    "Description": "INSTACART",
+    "Amount": "-54.53",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/22/2017",
+    "Post Date": "06/23/2017",
+    "Description": "GOOGLE *Google Music",
+    "Amount": "-7.99",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/22/2017",
+    "Post Date": "06/25/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-23.66",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/21/2017",
+    "Post Date": "06/23/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-21.35",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/21/2017",
+    "Post Date": "06/22/2017",
+    "Description": "UBER TECHNOLOGIES INC",
+    "Amount": "-4.99",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/21/2017",
+    "Post Date": "06/22/2017",
+    "Description": "UBER TECHNOLOGIES INC",
+    "Amount": "-5.29",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/20/2017",
+    "Post Date": "06/21/2017",
+    "Description": "UBER TECHNOLOGIES INC",
+    "Amount": "-5.51",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/19/2017",
+    "Post Date": "06/20/2017",
+    "Description": "INSTACART",
+    "Amount": "-73.2",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/19/2017",
+    "Post Date": "06/21/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-18.13",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/19/2017",
+    "Post Date": "06/20/2017",
+    "Description": "UBER TECHNOLOGIES INC",
+    "Amount": "-5.16",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/18/2017",
+    "Post Date": "06/20/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-16.76",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/18/2017",
+    "Post Date": "06/20/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-20.17",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/17/2017",
+    "Post Date": "06/18/2017",
+    "Description": "SQ *OSMENA PEARL",
+    "Amount": "-132",
+    "": ""
+  },
+  {
+    "Type": "Return",
+    "Trans Date": "06/17/2017",
+    "Post Date": "06/18/2017",
+    "Description": "Amazon.com",
+    "Amount": "135.53",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/17/2017",
+    "Post Date": "06/19/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-20.29",
+    "": ""
+  },
+  {
+    "Type": "Return",
+    "Trans Date": "06/17/2017",
+    "Post Date": "06/18/2017",
+    "Description": "AMAZON MKTPLACE PMTS",
+    "Amount": "8.69",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/16/2017",
+    "Post Date": "06/18/2017",
+    "Description": "GITHUB.COM  1RKYR",
+    "Amount": "-7",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/15/2017",
+    "Post Date": "06/16/2017",
+    "Description": "UBER TECHNOLOGIES INC",
+    "Amount": "-15.68",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/15/2017",
+    "Post Date": "06/18/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-25.42",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/15/2017",
+    "Post Date": "06/16/2017",
+    "Description": "UBER   *JUN15 EIOPI",
+    "Amount": "-6.94",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/15/2017",
+    "Post Date": "06/16/2017",
+    "Description": "UBER TECHNOLOGIES INC",
+    "Amount": "-21.47",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/15/2017",
+    "Post Date": "06/15/2017",
+    "Description": "UBER   *US JUN14 D46MW",
+    "Amount": "-10.55",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/15/2017",
+    "Post Date": "06/15/2017",
+    "Description": "UBER TECHNOLOGIES INC",
+    "Amount": "-7.42",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/14/2017",
+    "Post Date": "06/16/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-25.71",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/13/2017",
+    "Post Date": "06/14/2017",
+    "Description": "VESTA  *AT&amp;T",
+    "Amount": "-43.26",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/13/2017",
+    "Post Date": "06/15/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-24.73",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/13/2017",
+    "Post Date": "06/14/2017",
+    "Description": "AMAZON MKTPLACE PMTS",
+    "Amount": "-15.99",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/13/2017",
+    "Post Date": "06/14/2017",
+    "Description": "CHEVRON 0096377",
+    "Amount": "-55.01",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/12/2017",
+    "Post Date": "06/14/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-18.86",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/11/2017",
+    "Post Date": "06/12/2017",
+    "Description": "AMAZON MKTPLACE PMTS",
+    "Amount": "-13.99",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/11/2017",
+    "Post Date": "06/12/2017",
+    "Description": "INSTACART",
+    "Amount": "-55.74",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/11/2017",
+    "Post Date": "06/13/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-27.74",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/11/2017",
+    "Post Date": "06/12/2017",
+    "Description": "Amazon.com",
+    "Amount": "-11.95",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/10/2017",
+    "Post Date": "06/12/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-28.56",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/08/2017",
+    "Post Date": "06/11/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-22.11",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/07/2017",
+    "Post Date": "06/09/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-16.34",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/07/2017",
+    "Post Date": "06/08/2017",
+    "Description": "AMAZON MKTPLACE PMTS",
+    "Amount": "-31.19",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/07/2017",
+    "Post Date": "06/09/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-23.68",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/07/2017",
+    "Post Date": "06/08/2017",
+    "Description": "AMAZON MKTPLACE PMTS",
+    "Amount": "-34.82",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/06/2017",
+    "Post Date": "06/07/2017",
+    "Description": "Amazon.com",
+    "Amount": "-19.37",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/06/2017",
+    "Post Date": "06/08/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-22.4",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/06/2017",
+    "Post Date": "06/06/2017",
+    "Description": "Amazon Prime Now Tips",
+    "Amount": "-5",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/05/2017",
+    "Post Date": "06/06/2017",
+    "Description": "AMAZON MKTPLACE PMTS",
+    "Amount": "-29.94",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/05/2017",
+    "Post Date": "06/06/2017",
+    "Description": "Amazon.com",
+    "Amount": "-35.08",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/05/2017",
+    "Post Date": "06/06/2017",
+    "Description": "INSTACART",
+    "Amount": "-65.45",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/05/2017",
+    "Post Date": "06/07/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-14.21",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/04/2017",
+    "Post Date": "06/05/2017",
+    "Description": "AMAZON MKTPLACE PMTS",
+    "Amount": "-38.28",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/04/2017",
+    "Post Date": "06/06/2017",
+    "Description": "STARBUCKS STORE 03422",
+    "Amount": "-2.25",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/04/2017",
+    "Post Date": "06/05/2017",
+    "Description": "76 - ALAMO CO BRANDS INC",
+    "Amount": "-48.45",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/04/2017",
+    "Post Date": "06/05/2017",
+    "Description": "Amazon.com",
+    "Amount": "-135.53",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/04/2017",
+    "Post Date": "06/05/2017",
+    "Description": "CHEVRON 0095266",
+    "Amount": "-49.61",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/04/2017",
+    "Post Date": "06/05/2017",
+    "Description": "Amazon Prime Now",
+    "Amount": "-26.14",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/04/2017",
+    "Post Date": "06/06/2017",
+    "Description": "STARBUCKS STORE 03422",
+    "Amount": "-13.95",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/04/2017",
+    "Post Date": "06/06/2017",
+    "Description": "STARBUCKS STORE 03422",
+    "Amount": "-4.75",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/04/2017",
+    "Post Date": "06/05/2017",
+    "Description": "CHEVRON 0095266",
+    "Amount": "-44.95",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/03/2017",
+    "Post Date": "06/04/2017",
+    "Description": "WAL-MART #2053",
+    "Amount": "-28.16",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/03/2017",
+    "Post Date": "06/04/2017",
+    "Description": "Amazon.com",
+    "Amount": "-25.06",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/03/2017",
+    "Post Date": "06/05/2017",
+    "Description": "STARBUCKS STORE 03422",
+    "Amount": "-6.1",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/03/2017",
+    "Post Date": "06/05/2017",
+    "Description": "STARBUCKS STORE 03422",
+    "Amount": "-10.7",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/03/2017",
+    "Post Date": "06/04/2017",
+    "Description": "76 - WAYMAN'S 76",
+    "Amount": "-51.09",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/03/2017",
+    "Post Date": "06/04/2017",
+    "Description": "CHEVRON 0095266",
+    "Amount": "-20.56",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/02/2017",
+    "Post Date": "06/04/2017",
+    "Description": "JET.COM",
+    "Amount": "-10.18",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/02/2017",
+    "Post Date": "06/04/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-14.71",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/02/2017",
+    "Post Date": "06/04/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-58.45",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/02/2017",
+    "Post Date": "06/04/2017",
+    "Description": "AMAZON MKTPLACE PMTS",
+    "Amount": "-23.99",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/01/2017",
+    "Post Date": "06/05/2017",
+    "Description": "NORDSTROM DIRECT #0808",
+    "Amount": "-108.81",
+    "": ""
+  },
+  {
+    "Type": "Sale",
+    "Trans Date": "06/01/2017",
+    "Post Date": "06/04/2017",
+    "Description": "WHOLEFDS LAT 10155",
+    "Amount": "-19.11"
+  }
+]

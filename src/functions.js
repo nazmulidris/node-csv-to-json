@@ -42,4 +42,16 @@ function columnNameArrayToString(columnNames: Array<string>) {
   return columnNamesFormattedString;
 }
 
-module.exports = {createObjectFromCSVFile, columnNameArrayToString};
+function writeArrayToFile(filename: string, data: Array) {
+  let fs = require('fs');
+  fs.writeFile(filename,
+               JSON.stringify(data, null, "\t"),
+               (err) => {
+                 if (err) {
+                   return console.error(err);
+                 }
+                 console.log(filename + " is written!");
+               });
+}
+
+module.exports = {createObjectFromCSVFile, columnNameArrayToString, writeArrayToFile};

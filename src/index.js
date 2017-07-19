@@ -21,24 +21,25 @@ let questions = [
     type   : 'output',
     name   : 'outputFilePath',
     message: 'What is the path to the output JS file?',
-    default: 'assets/sampledata.js',
+    default: 'assets/sampledata.json',
   },
 ];
 inquirer.prompt(questions).then(userReply);
 
 function userReply(answers: FileLocationsType) {
-  let inputfile  = answers.inputFilePath;
-  let outputfile = answers.outputFilePath;
+  let inputFile  = answers.inputFilePath;
+  let outputFile = answers.outputFilePath;
   
-  console.log(inputfile);
-  console.log(outputfile);
+  console.log(inputFile);
+  console.log(outputFile);
   
   functions.createObjectFromCSVFile(
-    inputfile,
+    inputFile,
     (columnNames: Array, data: Array) => {
       let names = functions.columnNameArrayToString(columnNames);
       console.log(`column names: ${names}`);
       console.log(`number of rows: ${data.length}`);
+      functions.writeArrayToFile(outputFile, data);
     });
   
 }
