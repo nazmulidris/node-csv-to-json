@@ -1,5 +1,5 @@
 /*
- * Copyright 2017 R3BL LLC. All rights reserved.
+ * Copyright 2018 Nazmul Idris. All rights reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -18,7 +18,7 @@
 
 function createObjectFromCSVFile(inputFile: string, onFileLoadedFunction: Array) {
   let csv                = require('ya-csv');
-  let returnValue: Array = new Array();
+  let returnValue: Array = [];
   let reader             = csv.createCsvFileReader(inputFile,
                                                    {columnsFromHeader: true});
   reader.addListener(
